@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+
+.env
+
+data/processed/
